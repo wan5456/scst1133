@@ -1,19 +1,21 @@
-# Hi, saya Wan Muhammad Danish 👋
+<div align="center">
+  <img src="profile.jpg" alt="Wan Muhammad Danish" width="180" style="border-radius: 50%;">
 
-Selamat datang ke profil GitHub saya! Saya sedang mempelajari selok-belok pembangunan perisian dan kawalan versi (*version control*).
-
-## 🚀 Mengenai Saya
-- 🎓 **Pendidikan / Latar Belakang**: [Tulis bidang pengajian atau minat anda di sini]
-- 💻 **Fokus Sekarang**: Belajar Git, GitHub, dan [Bahasa Pengaturcaraan, contoh: Python / JavaScript]
-- 🌱 **Matlamat**: Mahu membina projek-projek menarik dan bekerjasama dalam komuniti open-source
-
-## 🛠️ Bahasa & Alat Pengaturcaraan
-- **Bahasa**: HTML, CSS, JavaScript, Python
-- **Alat**: Git, GitHub, VS Code
-
-## 📫 Hubungi Saya
-- **LinkedIn**: [pautan-linkedin-anda](https://linkedin.com/in/username)
-- **E-mel**: wan.danish@example.com
+  # Wan Muhammad Danish 👋
+  *Welcome to my GitHub Profile!*
+</div>
 
 ---
-*“Terus belajar dan mencuba perkara baru!”*
+
+## 🚀 About Me
+-  **🎓 Student at Universiti Teknologi Malaysia (UTM)
+💻 Computer Science Student | Data Engineering**:
+ 
+
+## 🛠️ Languages & Tools
+- **Phyton,C++**:
+- **Git,Github**: 
+
+## 📫 Connect with Me
+- **www.linkedin.com/in/wan-danish-055395445**:
+- **wanmuhammaddanish@graduate.utm.my**:
